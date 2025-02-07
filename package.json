@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/TejasGorde67/Book-Store-Project/issues"
   },
-  "homepage": "https://github.com/TejasGorde67/Book-Store-Project#readme"
+  "homepage": "https://github.com/TejasGorde67/Book-Store-Project#readme",
+  "devDependencies": {
+    "vite": "^6.1.0"
+  }
 }
